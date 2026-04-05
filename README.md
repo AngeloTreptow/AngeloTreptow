@@ -1,27 +1,32 @@
 ### Olá! 👋
 
-Sou **Angelo Treptow**, estudante de **Análise e Desenvolvimento de Sistemas** com interesse em **desenvolvimento de software e suporte técnico**.
+Sou **Angelo Treptow**, estudante de **Análise e Desenvolvimento de Sistemas** com foco em **desenvolvimento de software e automação**.
 
-Tenho experiência prática em **suporte técnico, manutenção de computadores e diagnóstico de problemas**, além de desenvolver projetos acadêmicos utilizando **Java, lógica de programação e banco de dados**.
-
-Atualmente estou focado em aprender e evoluir em:
-
-- Java e Programação Orientada a Objetos
-- Lógica de programação
-- Git e versionamento de código
-- Desenvolvimento web (HTML, CSS, JavaScript)
-- Sistemas Linux
-
-🚀 Buscando oportunidade de **estágio em desenvolvimento ou suporte técnico** para aplicar conhecimentos e evoluir profissionalmente.
+Tenho experiência prática em **suporte técnico, manutenção e diagnóstico**, além de desenvolver projetos sólidos utilizando **Python, Java e conceitos de POO**. Sou apaixonado por Linux e por criar soluções que unam funcionalidade e design moderno.
 
 ---
 
-**Alguns projetos meus:**
-- [Cofrinho Java](https://github.com/AngeloTreptow/cofrinho-java)  - 💰 Controle de moedas e poupança de forma simples  
-- [Exercícios de programação](https://github.com/AngeloTreptow/java-logica-exercicios) - Pequenos desafios resolvidos em Java.
+### 🚀 Atualmente focado em:
+
+- **Linguagens:** Python (CustomTkinter) e Java (POO).
+- **DevOps & Infra:** Sistemas Linux, Git e versionamento.
+- **Web:** Desenvolvimento com HTML, CSS e JavaScript.
 
 ---
 
-**Estatísticas do GitHub:**  
+### 📂 Projetos em Destaque:
+
+- [📚 My Book List](https://github.com/AngeloTreptow/MyBookList) - Gerenciador de biblioteca moderno com Python, interface personalizada e persistência JSON.  
+- [💰 Cofrinho Java](https://github.com/AngeloTreptow/cofrinho-java) - Sistema de controle de moedas aplicando Factory Pattern e POO.  
+- [💻 Exercícios de Lógica](https://github.com/AngeloTreptow/java-logica-exercicios) - Desafios e algoritmos resolvidos para fortalecer a base de programação.
+
+---
+
+### 📊 Estatísticas do GitHub:
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AngeloTreptow&theme=radical)
+
+---
+
+**Conecte-se comigo:**
+[LinkedIn](https://www.linkedin.com/in/angelotreptow/) 
