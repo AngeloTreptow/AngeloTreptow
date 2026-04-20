@@ -25,7 +25,7 @@ Aplicativo mobile de doação de itens entre comunidades, desenvolvido com foco 
 https://github.com/AngeloTreptow/AdianteDoe  
 
 👉 📲 **Baixar e testar o aplicativo (APK disponível)**  
-https://github.com/AngeloTreptow/AdianteDoe/releases/tag/V1.1.0
+https://github.com/AngeloTreptow/AdianteDoe/releases
 
 ---
 
